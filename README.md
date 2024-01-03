@@ -7,6 +7,7 @@ Browsers
 | Chrome Webstore | https://chromewebstore.google.com | No
 | Mozilla Add-ons | https://addons.mozilla.org | No
 | Safari Extensions | ? | No ?
+| Microsoft Edge Add-ons | https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home | No
 
 Development Environments
 | Name | URL | Direct Support for Paid
@@ -18,7 +19,7 @@ Productivity
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
 | Microsoft Appsource Marketplace (Dynamics 365, Microsoft 365, Power Platform, Saas) | https://appsource.microsoft.com/en-us/marketplace/apps | **Yes**
-| Google Workspace Add-ons | https://workspace.google.com/marketplace | **Yes**
+| Google Workspace Add-ons Marketplace | https://workspace.google.com/marketplace | **Yes**
 
 Other
 | Name | URL | Direct Support for Paid
