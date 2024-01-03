@@ -21,7 +21,7 @@ Productivity
 | Microsoft Appsource Marketplace (Dynamics 365, Microsoft 365, Power Platform, Saas) | https://appsource.microsoft.com/en-us/marketplace/apps | **Yes**
 | Google Workspace Add-ons Marketplace | https://workspace.google.com/marketplace | **Yes**
 
-Other
+Web Platforms
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
-| ? | ? | ?
+| WordPress Plugins | https://wordpress.org/plugins/ **Yes**
