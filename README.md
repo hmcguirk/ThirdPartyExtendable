@@ -43,5 +43,3 @@ Gaming
 | ------------- | ------------- | ------------- |
 | Epic Unreal Engine Marketplace | https://www.unrealengine.com/marketplace/en-US/store | **Yes**
 
-Misc
-https://codecanyon.net/
