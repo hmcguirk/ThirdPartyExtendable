@@ -32,4 +32,4 @@ Web Platforms
 Gaming
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
-| Epic UnrealEngine Marketplace |https://www.unrealengine.com/marketplace/en-US/store | **Yes**
+| Epic Unreal Engine Marketplace | https://www.unrealengine.com/marketplace/en-US/store | **Yes**
