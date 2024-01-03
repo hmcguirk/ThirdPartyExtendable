@@ -14,6 +14,7 @@ Development Environments
 | ------------- | ------------- | ------------- |
 | Visual Studio Marketplace (Visual Studio, Code, DevOps) | https://marketplace.visualstudio.com/ | **Yes**
 | JetBrains Marketplace | https://plugins.jetbrains.com/ | **Yes**
+| Eclipse marketplace | https://marketplace.eclipse.org/ | **Yes**
 
 Productivity
 | Name | URL | Direct Support for Paid
