@@ -16,12 +16,20 @@ Development Environments
 | JetBrains Marketplace | https://plugins.jetbrains.com/ | **Yes**
 | Eclipse marketplace | https://marketplace.eclipse.org/ | **Yes**
 
-Productivity
+Productivity Apps
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
 | Microsoft Appsource Marketplace (Dynamics 365, Microsoft 365, Power Platform, Saas) | https://appsource.microsoft.com/en-us/marketplace/apps | **Yes**
 | Google Workspace Add-ons Marketplace | https://workspace.google.com/marketplace | **Yes**
+
+Tools
+| Name | URL | Direct Support for Paid
+| ------------- | ------------- | ------------- |
 | OpenAI chat plugins | https://platform.openai.com/docs/plugins/ | **Yes**
+
+Media Apps
+| Name | URL | Direct Support for Paid
+| ------------- | ------------- | ------------- |
 | Adobe Exchange | https://exchange.adobe.com/apps/browse/ec?product=All&partnerLevel=All&sort=MOST_RECENT | **Yes**
 
 Web Platforms
