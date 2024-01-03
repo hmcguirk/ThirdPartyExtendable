@@ -20,6 +20,7 @@ Productivity
 | ------------- | ------------- | ------------- |
 | Microsoft Appsource Marketplace (Dynamics 365, Microsoft 365, Power Platform, Saas) | https://appsource.microsoft.com/en-us/marketplace/apps | **Yes**
 | Google Workspace Add-ons Marketplace | https://workspace.google.com/marketplace | **Yes**
+| OpenAI chat plugins | https://platform.openai.com/docs/plugins/ | **Yes**
 
 Web Platforms
 | Name | URL | Direct Support for Paid
