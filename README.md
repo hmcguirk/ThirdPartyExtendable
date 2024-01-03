@@ -24,4 +24,4 @@ Productivity
 Web Platforms
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
-| WordPress Plugins | https://wordpress.org/plugins/ **Yes**
+| WordPress Plugins | https://wordpress.org/plugins/ | **Yes**
