@@ -22,8 +22,14 @@ Productivity
 | Microsoft Appsource Marketplace (Dynamics 365, Microsoft 365, Power Platform, Saas) | https://appsource.microsoft.com/en-us/marketplace/apps | **Yes**
 | Google Workspace Add-ons Marketplace | https://workspace.google.com/marketplace | **Yes**
 | OpenAI chat plugins | https://platform.openai.com/docs/plugins/ | **Yes**
+| Adobe Exchange | https://exchange.adobe.com/apps/browse/ec?product=All&partnerLevel=All&sort=MOST_RECENT | **Yes**
 
 Web Platforms
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
 | WordPress Plugins | https://wordpress.org/plugins/ | **Yes**
+
+Gaming
+| Name | URL | Direct Support for Paid
+| ------------- | ------------- | ------------- |
+| Epic UnrealEngine Marketplace |https://www.unrealengine.com/marketplace/en-US/store | **Yes**
