@@ -28,8 +28,12 @@ Web Platforms
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
 | WordPress Plugins | https://wordpress.org/plugins/ | **Yes**
+| Shopify App Store | https://apps.shopify.com/ | **Yes**
 
 Gaming
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
 | Epic Unreal Engine Marketplace | https://www.unrealengine.com/marketplace/en-US/store | **Yes**
+
+Misc
+https://codecanyon.net/
