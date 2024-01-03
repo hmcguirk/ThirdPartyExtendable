@@ -37,6 +37,7 @@ Web Platforms
 | ------------- | ------------- | ------------- |
 | WordPress Plugins | https://wordpress.org/plugins/ | **Yes**
 | Shopify App Store | https://apps.shopify.com/ | **Yes**
+| Notion.so Templates | https://www.notion.so/templates https://notionintegrations.com/ | **Yes**
 
 Gaming
 | Name | URL | Direct Support for Paid
