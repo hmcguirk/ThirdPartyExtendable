@@ -1,6 +1,5 @@
-# ThirdPartyExtendables
+# Third Party Extendables
 Platforms offering 3rd Party Extendability via Add-ons/Plugins/Extensions/Apps
-
 
 Browsers
 | Name | URL | Direct Support for Paid
@@ -18,7 +17,7 @@ Development Environments
 Productivity
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
-| ? | ? | ?
+| Microsoft Appsource Marketplace (Dynamics 365, Microsoft 365, Power Platform, Saas) | https://appsource.microsoft.com/en-us/marketplace/apps | **Yes**
 
 Other
 | Name | URL | Direct Support for Paid
