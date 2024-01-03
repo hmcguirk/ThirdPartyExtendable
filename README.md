@@ -18,6 +18,7 @@ Productivity
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
 | Microsoft Appsource Marketplace (Dynamics 365, Microsoft 365, Power Platform, Saas) | https://appsource.microsoft.com/en-us/marketplace/apps | **Yes**
+| Google Workspace Add-ons | https://workspace.google.com/marketplace | **Yes**
 
 Other
 | Name | URL | Direct Support for Paid
