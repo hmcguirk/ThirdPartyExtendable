@@ -1,7 +1,7 @@
 # Third Party Extendables
 Platforms offering 3rd Party Extendability via Add-ons/Plugins/Extensions/Apps
 
-Browsers
+## Browsers
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
 | Chrome Webstore | https://chromewebstore.google.com | No
@@ -9,47 +9,47 @@ Browsers
 | Safari Extensions | ? | No ?
 | Microsoft Edge Add-ons | https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home | No
 
-Development Environments
+## Development Environments
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
 | Visual Studio Marketplace (Visual Studio, Code, DevOps) | https://marketplace.visualstudio.com/ | **Yes**
 | JetBrains Marketplace | https://plugins.jetbrains.com/ | **Yes**
 | Eclipse marketplace | https://marketplace.eclipse.org/ | **Yes**
 
-Productivity
+## Productivity
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
 | Microsoft Appsource Marketplace (Dynamics 365, Microsoft 365, Power Platform, Saas) | https://appsource.microsoft.com/en-us/marketplace/apps | **Yes**
 | Google Workspace Add-ons Marketplace | https://workspace.google.com/marketplace | **Yes**
 
-Customer Experience
+## Customer Experience
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
 | Zendesk Marketplace | https://www.zendesk.com/marketplace/ | **Yes**
 
-Design
+## Design
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
 | Autodesk Marketplace | https://apps.autodesk.com/en | **Yes**
 
-Tools
+## Tools
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
 | OpenAI chat plugins | https://platform.openai.com/docs/plugins/ | **Yes**
 
-Media
+## Media
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
 | Adobe Exchange | https://exchange.adobe.com/apps/browse/ec?product=All&partnerLevel=All&sort=MOST_RECENT | **Yes**
 
-Web Platforms
+## Web Platforms
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
 | WordPress Plugins | https://wordpress.org/plugins/ | **Yes**
 | Shopify App Store | https://apps.shopify.com/ | **Yes**
 | Notion.so Templates | https://www.notion.so/templates https://notionintegrations.com/ | **Yes**
 
-Gaming
+## Gaming
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
 | Epic Unreal Engine Marketplace | https://www.unrealengine.com/marketplace/en-US/store | **Yes**
