@@ -32,6 +32,11 @@ Platforms offering 3rd Party Extendability via Add-ons/Plugins/Extensions/Apps
 | ------------- | ------------- | ------------- |
 | Autodesk Marketplace | https://apps.autodesk.com/en | **Yes**
 
+## CMS
+| Name | URL | Direct Support for Paid
+| ------------- | ------------- | ------------- |
+| Joomla! Extensions Directory | https://extensions.joomla.org/ | No
+
 ## Tools
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
