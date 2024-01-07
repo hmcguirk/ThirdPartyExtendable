@@ -54,6 +54,7 @@ Platforms offering 3rd Party Extendability via Add-ons/Plugins/Extensions/Apps
 | Shopify App Store | https://apps.shopify.com/ | **Yes**
 | Notion.so Templates | https://www.notion.so/templates https://notionintegrations.com/ | **Yes**
 | monday.com Marketplace | https://monday.com/marketplace | **Yes**
+| Wix App market | https://www.wix.com/app-market | **Yes**
 
 ## Gaming
 | Name | URL | Direct Support for Paid
