@@ -1,6 +1,13 @@
 # Third Party Extendables
 Platforms offering 3rd Party Extendability via Add-ons/Plugins/Extensions/Apps
 
+## Generic
+| Name | URL | Direct Support for Paid
+| ------------- | ------------- | ------------- |
+| Google Play | https://play.google.com | **Yes**
+| Apple App Store | https://www.apple.com/app-store | **Yes**
+| Apify | https://apify.com/ | **Yes**
+
 ## Browsers
 | Name | URL | Direct Support for Paid
 | ------------- | ------------- | ------------- |
