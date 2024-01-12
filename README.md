@@ -7,6 +7,7 @@ Platforms offering 3rd Party Extendability via Add-ons/Plugins/Extensions/Apps
 | Google Play | https://play.google.com | **Yes**
 | Apple App Store | https://www.apple.com/app-store | **Yes**
 | Apify | https://apify.com/ | **Yes**
+| Bubble.io Marketplace | https://bubble.io/marketplace | **Yes**
 
 ## Browsers
 | Name | URL | Direct Support for Paid
