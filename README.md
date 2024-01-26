@@ -8,6 +8,7 @@ Platforms offering 3rd Party Extendability via Add-ons/Plugins/Extensions/Apps
 | Apple App Store | https://www.apple.com/app-store | **Yes**
 | Apify | https://apify.com/ | **Yes**
 | Bubble.io Marketplace | https://bubble.io/marketplace | **Yes**
+| RapidApi | https://rapidapi.com/categories | **Yes**
 
 ## Browsers
 | Name | URL | Direct Support for Paid
