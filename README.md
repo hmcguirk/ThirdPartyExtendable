@@ -9,6 +9,7 @@ Platforms offering 3rd Party Extendability via Add-ons/Plugins/Extensions/Apps
 | Apify | https://apify.com/ | **Yes**
 | Bubble.io Marketplace | https://bubble.io/marketplace | **Yes**
 | RapidApi | https://rapidapi.com/categories | **Yes**
+| Webflow Marketplace | https://webflow.com/marketplace | **Yes**
 
 ## Browsers
 | Name | URL | Direct Support for Paid
