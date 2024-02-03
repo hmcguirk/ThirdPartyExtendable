@@ -10,6 +10,8 @@ Platforms offering 3rd Party Extendability via Add-ons/Plugins/Extensions/Apps
 | Bubble.io Marketplace | https://bubble.io/marketplace | **Yes**
 | RapidApi | https://rapidapi.com/categories | **Yes**
 | Webflow Marketplace | https://webflow.com/marketplace | **Yes**
+| Azure Marketplace | https://azuremarketplace.microsoft.com/ | **Yes**
+| AWS Marketplace | https://aws.amazon.com/marketplace | **Yes**
 
 ## Browsers
 | Name | URL | Direct Support for Paid
